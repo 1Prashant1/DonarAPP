@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name"> دم نينوى</string>
+
+    <string-array name="blood_arrays">
+        <item>A+</item>
+        <item>B+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string-array name="city_arrays">
+        <item>حمام العليل</item>
+        <item>الشورة</item>
+        <item>بعشيقة</item>
+        <item>المحلبية</item>
+        <item>بادوش</item>
+        <item>الحضر</item>
+        <item>تل عبطة</item>
+        <item>البعاج</item>
+        <item>القيروان</item>
+        <item>القحطانية</item>
+        <item>مخمور</item>
+        <item>الكوير</item>
+        <item>قراج</item>
+        <item>الحمدانية</item>
+        <item>برطلة</item>
+        <item>النمرود</item>
+        <item>الشيخان</item>
+        <item>تلكيف</item>
+        <item>وانة</item>
+        <item>فايدة</item>
+        <item>القوش</item>
+        <item>اربيل</item>
+        <item>تلعفر</item>
+        <item> ربيعة</item>
+        <item>زمار</item>
+        <item> العياضية</item>
+        <item>سنجار</item>
+        <item>ناحية الشمال</item>
+        <item>الموصل الايمن</item>
+        <item>الموصل الايسر</item>
+        <item>مدن اخرى</item>
+
+
+    </string-array>
+
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_login">Sign in </string>
+    <string name="hint_email">ادخل الايميل</string>
+    <string name="hint_password"> الباسورد</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login"> الدخول</string>
+    <string name="prompt_password">Please enter your password</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="radio_male">ذكر</string>
+    <string name="radio_female">انثى</string>
+    <string name="blood_group">فصيلة دم</string>
+    <string name="city_prompt">مدينة</string>
+    <string name="donor">Yes</string>
+    <string name="txtName" />
+    <string name="btnCancel">الغاء</string>
+    <string name="btnCall">اتصل</string>
+    <string name="txtcity" />
+    <string name="txtphone" />
+    <string name="txtBld" />
+    <string name="txtdonors">متبرع</string>
+    <string name="blood_group_txt">فصيلة دم</string>
+    <string name="txtCity">مدينة</string>
+    <string name="btn_Search_txt">ابحث</string>
+    <string name="txt_searchDonor"> ابحث متبرع</string>
+    <string name="imgviewsearch">imgViewSearch</string>
+    <string name="registerBtnTxt">تسجيل دخول </string>
+    <string name="txt_i_am_donor"> انا متبرع</string>
+    <string name="blood_grouptxt"> فصيلة الدم</string>
+    <string name="txtcIty"> مدينة </string>
+    <string name="contact_no"> رقم الهاتف</string>
+    <string name="passwordHint">باسورد</string>
+    <string name="registrationTxt">دخول اول مرة </string>
+    <string name="editNameHint">الاسم</string>
+    <string name="genderTxt">الجنس</string>
+    <string name="loginEditEmail_HintTxt">الايميل</string>
+    <string name="login_passwordHint">باسورد</string>
+    <string name="log_inBtnTxt">دخول</string>
+    <string name="registerbtntxt">تسجيل</string>
+    <string name="foundError">لا يوجد متبرع</string>
+    <string name="btn_forgot_password">هل نسيت كلمة الدخول؟</string>
+    <string name="btn_reset_password2"> اعادة كلمة دخول</string>
+    <string name="btn_back"><![CDATA[<< رجوع]]></string>
+    <string name="btn_change">تغيير</string>
+    <string name="btn_send">ارسل</string>
+    <string name="lbl_forgot_password">نسيت كلمة المرور؟</string>
+    <string name="forgot_password_msg">We just need your registered Email Address to sent you password reset instructions.</string>
+    <string name="enter_old_password_hint">Enter Old Password</string>
+    <string name="enter_new_password_hint">Enter New Password</string>
+    <string name="cityTxtProf">مدينة</string>
+    <string name="emailProftxt">ايميل</string>
+    <string name="genderTxtprof">الجنس </string>
+    <string name="blood_groupTxtProf">  الفصيلة</string>
+    <string name="nameProfTxt">الاسم</string>
+
+</resources>
